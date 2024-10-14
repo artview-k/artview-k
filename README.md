@@ -25,7 +25,7 @@ H<sub>2</sub>O<br>
 X<sup>3</sup>
 
 <!-- 링크 -->
-구글로 이동 : (http://sch.ac.kr)
+구글로 이동 : http://sch.ac.kr
 <!--  -->
 <!--  -->
 <!--  -->
