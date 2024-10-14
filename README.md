@@ -25,8 +25,11 @@ H<sub>2</sub>O<br>
 X<sup>3</sup>
 
 <!-- 링크 -->
-구글로 이동 : http://sch.ac.kr
-<!--  -->
+[순천향대학교](http://sch.ac.kr)
+
+<!-- 이미지 -->
+![로고](https://home.sch.ac.kr/_res/sch/img/logo_link2.png)
+<img src="https://home.sch.ac.kr/_res/sch/img/logo_link2.png" width="100px"></img>
 <!--  -->
 <!--  -->
 <!--  -->
