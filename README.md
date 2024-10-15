@@ -30,6 +30,32 @@ X<sup>3</sup>
 <!-- 이미지 -->
 ![로고](https://home.sch.ac.kr/_res/sch/img/logo_link2.png)
 <img src="https://home.sch.ac.kr/_res/sch/img/logo_link2.png" width="100px"></img>
-<!--  -->
-<!--  -->
-<!--  -->
+
+<!-- 코드 -->
+코드 1 : `#include<iostream>` 입니다.<br>
+코드 2 :
+```c++
+#include<iostream>
+int main()
+{
+  return 0;
+}
+```
+코드 3 :
+```
+#include<iostream>
+int main()
+{
+  return 0;
+}
+```
+
+<!-- 표 -->
+|야채|과일|고기|
+|:--|--:|:--:|
+|아스파라거스|배|닭고기|
+|오이|바나나|소|
+
+<!-- 체크박스 -->
+* [ ] 여자
+* [x] 남자
