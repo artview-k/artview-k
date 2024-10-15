@@ -67,6 +67,7 @@ https://img.shields.io/badge/
 
 https://simpleicons.org/
 ```
+
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=red"/>
 <img src="https://img.shields.io/badge/any_text-you_like-F09820"/>
