@@ -59,3 +59,14 @@ int main()
 <!-- 체크박스 -->
 * [ ] 여자
 * [x] 남자
+
+<!-- https://img.shields.io, https://simpleicons.org/ -->
+```
+https://img.shields.io/badge/
+<img src="https://img.shields.io/badge/{뱃지이름}-{뱃지색깔}?style={뱃지스타일}&logo={로고이름}&logoColor={로고색깔}"/>
+
+https://simpleicons.org/
+```
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/any_text-you_like-F09820"/>
